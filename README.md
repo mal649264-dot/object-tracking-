@@ -1,7 +1,4 @@
 
-
-https://github.com/user-attachments/assets/8ac5d0d1-1bc3-44e2-8934-d3150fa7d877
-
 # object-tracking-
 # Blue Object Tracking using OpenCV
 
