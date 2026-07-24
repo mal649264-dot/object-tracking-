@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/8ac5d0d1-1bc3-44e2-8934-d3150fa7d877
+
 # object-tracking-
 # Blue Object Tracking using OpenCV
 
@@ -7,8 +11,7 @@ A simple Computer Vision project built with Python and OpenCV to detect and trac
 
 ## 📽️ Demo / Output
 
-<!-- Drag and drop your video or GIF directly here on GitHub -->
-https://github.com/mal649264/object-tracking-/assets/output.mp4
+https://github.com/user-attachments/assets/8ac5d0d1-1bc3-44e2-8934-d3150fa7d877
 
 ---
 
