@@ -22,9 +22,4 @@ The code processes the video in **3 simple steps**:
 
 ---
 
-## 🛠️ How to Run
 
-### 1. Install Dependencies
-Make sure you have `opencv-python` and `numpy` installed:
-```bash
-pip install opencv-python numpy
